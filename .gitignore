@@ -1,0 +1,30 @@
+# ==============================
+# Python Backend
+# ==============================
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/*.pyd
+backend/.env
+backend/temp_*
+
+# Model file (optional)
+backend/*.h5
+
+# ==============================
+# React Frontend
+# ==============================
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env
+
+# ==============================
+# General
+# ==============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
